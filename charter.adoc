@@ -1,4 +1,4 @@
-= { New Group Name } { New Group Type } Charter
+= Packed Single Instruction, Multiple Data (SIMD) Charter
 
 == Introduction
 
